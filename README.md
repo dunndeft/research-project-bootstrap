@@ -1,3 +1,3 @@
 # research-project-bootstrap
 
-Netlify: https://boring-ardinghelli-5168bb.netlify.app/
+Netlify: https://dunndeft-research-project-bootstrap.netlify.app/
